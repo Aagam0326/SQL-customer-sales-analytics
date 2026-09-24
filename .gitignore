@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 data/raw/*.csv
 !data/raw/.gitkeep
-%SystemDrive%
+%SystemDrive%/
